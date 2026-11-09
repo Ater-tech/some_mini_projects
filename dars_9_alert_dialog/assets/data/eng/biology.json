@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Introduction to Biology" },
+  { "id": 2, "name": "Cell Structure" },
+  { "id": 3, "name": "Cell Division" },
+  { "id": 4, "name": "Tissues" },
+  { "id": 5, "name": "Organs and Organ Systems" },
+  { "id": 6, "name": "Plant Anatomy" },
+  { "id": 7, "name": "Plant Physiology" },
+  { "id": 8, "name": "Photosynthesis" },
+  { "id": 9, "name": "Respiration" },
+  { "id": 10, "name": "Metabolism" },
+  { "id": 11, "name": "Basics of Genetics" },
+  { "id": 12, "name": "Heredity and Variation" },
+  { "id": 13, "name": "Theory of Evolution" },
+  { "id": 14, "name": "Basics of Ecology" },
+  { "id": 15, "name": "Biocenosis and Ecosystems" },
+  { "id": 16, "name": "Human Anatomy" },
+  { "id": 17, "name": "Human Physiology" },
+  { "id": 18, "name": "Nervous System" },
+  { "id": 19, "name": "Immunity" },
+  { "id": 20, "name": "Basics of Biotechnology" }
+]

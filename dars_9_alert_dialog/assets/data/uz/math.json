@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Natural sonlar" },
+  { "id": 2, "name": "Butun sonlar" },
+  { "id": 3, "name": "Ratsional sonlar" },
+  { "id": 4, "name": "Irratsional sonlar" },
+  { "id": 5, "name": "Haqiqiy sonlar" },
+  { "id": 6, "name": "Oddiy kasrlar" },
+  { "id": 7, "name": "O‘nli kasrlar" },
+  { "id": 8, "name": "Algebraik kasrlar" },
+  { "id": 9, "name": "Foizlar" },
+  { "id": 10, "name": "Darajalar" },
+  { "id": 11, "name": "Ildizlar" },
+  { "id": 12, "name": "Chiziqli tenglamalar" },
+  { "id": 13, "name": "Kvadrat tenglamalar" },
+  { "id": 14, "name": "Tengsizliklar" },
+  { "id": 15, "name": "Proporsiyalar" },
+  { "id": 16, "name": "Progressiyalar" },
+  { "id": 17, "name": "Funksiyalar" },
+  { "id": 18, "name": "Trigonometriya asoslari" },
+  { "id": 19, "name": "Geometriya asoslari" },
+  { "id": 20, "name": "Statistika va ehtimollik" }
+]

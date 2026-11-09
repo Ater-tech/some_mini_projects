@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Kimyo faniga kirish" },
+  { "id": 2, "name": "Modda va uning xossalari" },
+  { "id": 3, "name": "Atom tuzilishi" },
+  { "id": 4, "name": "Kimyoviy elementlar" },
+  { "id": 5, "name": "Davriy sistema" },
+  { "id": 6, "name": "Kimyoviy bog‘lanish" },
+  { "id": 7, "name": "Kimyoviy reaksiyalar" },
+  { "id": 8, "name": "Reaksiya tezligi" },
+  { "id": 9, "name": "Kimyoviy muvozanat" },
+  { "id": 10, "name": "Eritmalar" },
+  { "id": 11, "name": "Elektrolitik dissotsiatsiya" },
+  { "id": 12, "name": "Oksidlanish-qaytarilish reaksiyalari" },
+  { "id": 13, "name": "Anorganik birikmalar" },
+  { "id": 14, "name": "Kislotalar, asoslar va tuzlar" },
+  { "id": 15, "name": "Metallar" },
+  { "id": 16, "name": "Metallmaslar" },
+  { "id": 17, "name": "Organik kimyoga kirish" },
+  { "id": 18, "name": "Uglevodorodlar" },
+  { "id": 19, "name": "Spirtlar va kislotalar" },
+  { "id": 20, "name": "Polimerlar" }
+]

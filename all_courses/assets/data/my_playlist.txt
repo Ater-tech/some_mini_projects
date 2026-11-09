@@ -1,0 +1,252 @@
+Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=gcXQvBerB3k 
+1.2. Modul haqida umumiy ma'lumot | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=u_1Q2ipK3Vg 
+1.3. Flutter nima ? | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=vucAZUDFBaA 
+1.4. Flutterning afzalliklari | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=7QbbVfZhQYc 
+1.5. Flutter nega Dart dasturlash tilidan foydalanadi | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=P9sfFfxgWWw 
+1.6. Flutterni Windowsga o'rnatish | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=T2mZwhVfDns 
+1.8. Birinchi mobil ilovangizni yarating va ishga tushiring | Flutter Mobil dasturlash kursi o'zbek 
+ https://www.youtube.com/watch?v=C3PdzTIPpoY 
+2.1. Modul haqida umumiy ma'lumot | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=dNQl8hKFbxY 
+2.2. Kommentariyalar, output, expression va statementlar | Flutter Mobil dasturlash kursi o'zbek 
+ https://www.youtube.com/watch?v=CfQVJbfb6zY 
+2.3. Arifmetik amallar va matematik funksiyalar | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=F8QqJiTYH4A 
+2.4. Variables & Constants | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=E74Edjw4KBU 
+2.5. Data types & operations | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=9esrlVMN3U4 
+2.6. Stringlar bilan ishlash | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=axNtJBxmDmI 
+2.7. Object & dynamic types | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=e-4KRAKS2cQ 
+2.8. Control flow | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=g3PjHTHEMxA 
+2.9. Loops | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=dA6Fxh8_PXo 
+3.1. Modul haqida umumiy malumot | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=1qzebYeM7gI 
+3.2. Functions | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=3DeBTVwNuqo 
+3.3. Classes intro | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=qCAC7Th1pyw 
+3.4. Constructors | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=ftwBAe06cSg 
+3.5. Setters and getters | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=I-gbOR6qgvY 
+3.6. Static members and static methods | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=wQDi54tFUOM 
+3.7. Singleton pattern | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=Ohe-xWs-oag 
+3.8. Nullability | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=K46F-jklL2o 
+3.9. Late keyword | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=bMQ8Ou9z6Pg 
+4.1. Modul haqida umumiy ma'lumot | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=ZY5ZA6OCOlk 
+4.2. Flutter ilovasini yaratish usullari | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=-30E3cFGC-4 
+4.3. Flutter ilovasining tuzilishi | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=P0XC1SvZiTQ 
+4.4. Packages and pub dev | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=gnpJOz25ri8 
+5.1. Modul haqida umumiy ma'lumot | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=FQzrxVHsFSo 
+5.2. Flutterda hamma narsa bu widget | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=79l1imd7AZ4 
+5.3. Stateful and Stateless widgets | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=D0wUOh5xbTo 
+5.4. Basic Flutter widgets Text, Image, Icon | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=E77ektbLdZU 
+5.5. Introduction to layouts in Flutter | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=_i_HlXTo_Vc 
+5.6. Using Row and Columns for flexible layouts | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=HeQLM7i65Cc 
+5.7. Understanding Stack and Positioned widgets | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=VdpfMpj5KKY 
+5.8. Building complex UIs with Containers | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=JoAlQoY1pUw 
+5.9. Scrollable widgets | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=LtxYHEoeuR0 
+5.10. Building responsive UIs in Flutter | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=I4ogmtGEmLU 
+6.1. Modul haqida umumiy ma'lumot | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=V1W-vgqNMHY 
+6.2. Introduction to statemanagement in Flutter | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=F2Lx24pHtAE 
+6.3. Managing state locally with setState | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=GOKLv1mSFY8 
+6.4. Mastering statemanagement with Provider | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=5ki6gsXMIoQ 
+7.1. Modul haqida umumiy ma'lumot | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=lJ_NssX0yIY 
+7.2. Mobil ilovamizni UI qismini yasash | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=jFgoQWxnxSs 
+7.3. clear, onSignChange,onTapPercent functions | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=9NtuLwpfNv8 
+7.4. Formatting number | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=Fa9KffBPO1s 
+7.5. onTapNumber, onTapDot,onTapRemove functions | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=QNetM6nNpcw 
+7.6. onTapOperation, onTapDot,onTapRemove functions | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=vfybCYzs52E 
+7.7. Switching betweenDark and Light mode | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=3LhOdINnd8g 
+7.8. Android telefonlari uchunmobil ilova yaratish | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=LbBdoDVzVsI 
+7.9. Modul oxiri | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=GWP618xfgRc 
+8.1. Modul haqida umumiy ma'lumot | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=2PJhzckqfD8 
+8.2. Lists | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=qh0kr_6yxQA 
+8.3. Sets | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=_DSnYel8X_k 
+8.4. Maps | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=dE5kPJdfTvY 
+8.5. Higher order functions | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=wK0C4s62VCk 
+8.6. When to use what | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=XSc4CT_0EmI 
+9.1. Modul haqida umumiy ma'lumot | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=Qvh0SmsfNXQ 
+9.2. Ekranlar orasida navigatsiya | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=d7-LV-YxNSk 
+9.3. Ekranlar o'rtasida ma'lumotlarni uzatish | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=KYY2lmqji30 
+9.4. Named route lardanfoydalanish | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=qgPYmwc6hxE 
+10.1. Modul haqida umumiy ma'lumot | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=vEg82uvodcM 
+10.2. Haqiqiy mobil ilovalar qanday ishlaydi | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=fF2fIZBUes0 
+10.3. Asynchronous programming | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=vbnLHKM8gzU 
+10.4. Parsing JSON dataand handling responses | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=S5ujSwPipvI 
+10.5. GET, POST, PUT, PATCH, DELETE requests | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=hKAIMmkOm8E 
+10.6. Implementing secure API calls | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=Mv5qcoZFOl4 
+10.7. Error handlingand status codes | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=-ylw8XTCc7g 
+11.1. Modul haqida umumiy ma'lumot | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=GM52mIt4kd8 
+11.2. Mobil ilovamizni strukturasini tuzamiz | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=oAQSV2o1RaE 
+11.3. Splash screen | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=ep4RnlMuvVI 
+11.4. Onboarding screen | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=VZ5BuQ3dNHw 
+11.5. Using fonts in Flutter | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=echtuXsJT4s 
+11.6. Home screen | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=XphQ9yZOvPA 
+11.7. Recipe detail screen | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=x-YGgQOe3hs 
+11.8. Search screen | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=hj8jMhu6iQg 
+11.9. Active search screen | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=hglNy0ETiC4 
+11.10. Last viewed screen | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=ASUvCspjowo 
+11.11. Search history screen | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=8HPJwBSTK3E 
+11.12. Adding State Managment | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=PnANBZOtAXM 
+11.13. Building dynamic Home Screen with API | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=1t-HIVItBnk 
+11.14. Connecting recipe detail screen to API | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=kOYT5dRUrRs 
+11.15. Connnecting search screen to API | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=QYlkCkOGols 
+11.16. Making last viewed section screen dynamic | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=aEpipuftyrI 
+11.17. Modul oxiri | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=6WKbXyuAfRE 
+12.1. Modul haqida umumiy ma’lumot | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=zvIBZPeOaYo 
+12.2. Introduction to animations | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=lYweb9oCDzw 
+12.3. Implicit animations | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=zEroCw7Tlew 
+12.4. Explicit animations | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=vzCF7Xxff6A 
+12.5. Hero animations | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=TiWAX0M9Hbg 
+12.6. Animation curves | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=VI4ERWEwZJI 
+13.1. Modul haqida umumiy ma’lumot | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=DB5Dh18re7U 
+13.2. Introduction to local storage | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=_q5Uwelt1wQ 
+13.3. Hive kutubxonasidan foydalanish | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=RLILJ2kIRYw 
+13.4. Drift kutubxonasidan foydalanish | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=GiCeC_CLUKY 
+14.1. Modul haqida umumiy ma'lumot | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=ZS_CFTVuAIY 
+14.2. Mobil ilovamizni strukturasini tuzamiz | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=wsPhu3ZfPUk 
+14.3. Splash, Onboarding, Sign up screen UI | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=Z1ig5sHW3-s 
+14.4. Security PIN, Setup PIN, Setup accounts, All done screen UI | Flutter Mobil dasturlash kursi 
+ https://www.youtube.com/watch?v=ANtKqjl1AKc 
+14.5. Home screen UI | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=nBV6axjbSP4 
+14.6. Create expense, Create income,Create transfer screen UI | Flutter Mobil dasturlash kursi 
+ https://www.youtube.com/watch?v=6Vko07fY2f0 
+14.7. Transactions screen UI | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=osxFmWqEeqo 
+14.8. Financial reportoverview screen UI | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=lDIyGWNkFV4 
+14.9. Financial reportdetail screen UI | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=f0k8nsOVO7k 
+14.10. Expense detail,Income detail,Transfer detail screen UI | Flutter Mobil dasturlash kursi 
+ https://www.youtube.com/watch?v=sv4qOWf8k8s 
+14.11. Budget, Create budget,Budget detail, Edit budget screen UI | Flutter Mobil dasturlash kursi 
+ https://www.youtube.com/watch?v=A2jIiYMi84I 
+14.12. Profile, Accounts list, Create account, Account detail, Edit account screen UI 
+ https://www.youtube.com/watch?v=p_Y9DOZWyYQ 
+14.13. Settings, Currency settings,Language settings screen UI | Flutter Mobil dasturlash kursi 
+ https://www.youtube.com/watch?v=0Ym8O2v6xFA 
+14.14. Data and  State Management Logic | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=7vzyTzOHB3M 
+14.15. Making Splash, Onboarding, Sign up screen dynamic | Flutter Mobil dasturlash kursi o'zbek 
+ https://www.youtube.com/watch?v=VscwX2qF-Ho 
+14.16. Making Create PIN, Security PIN screen dynamic | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=IH_DRnhO4AE 
+14.17. Making Setup Accounts, Create Account, All Done screen dynamic | Flutter Mobil dasturlash 
+ https://www.youtube.com/watch?v=yR7y5UMFJrQ 
+14.18. Making Accounts List, Account Detail, Edit Account  screen dynamic | Flutter Mobil dasturlash 
+ https://www.youtube.com/watch?v=9VKEUPH7_ko 
+14.19. Making Create Expense, Create income, Create transfer screen dynamic 
+ https://www.youtube.com/watch?v=V75BT2Zucsc 
+14.20. Making Home screen dynamic | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=LSdRy-tglTE 
+14.21. Making Transactions screen dynamic | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=cYkSnuzch8M 
+14.22. Making Expense Detail, Income Detail, Transfer Detail screen dynamic 
+ https://www.youtube.com/watch?v=hF-MsNmf50A 
+14.23. Making Budgets, Create Budget, Budget Detail, Edit Budget screen dynamic | Flutter Mobil 
+ https://www.youtube.com/watch?v=mtBToJwcsEk 
+14.24. Making Financial Report Overview screen dynamic | Flutter Mobil dasturlash kursi o'zbek tili 
+ https://www.youtube.com/watch?v=VpILjqwZ3-A 
+14.25. Making Financial Report Detail screen dynamic | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=mbzq0sQXll4 
+14.26. Making Profile, Currency and Language Settings screen dynamic | Flutter Mobil dasturlash kurs 
+ https://www.youtube.com/watch?v=BPJOEvy0hw8 
+14.27. Dasturimizni 3 ta tilda tarjima qilamiz | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=A9L_0PVo70Q 
+14.28. Modul oxiri | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=wqahpjBdW2Y 
+15.1. Kurs yakuni | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=MYXmDDd_muQ 
+15.2. Keyingi tafsiyalar | Flutter Mobil dasturlash kursi o'zbek tilida 
+ https://www.youtube.com/watch?v=AvslF9ZqB1E 

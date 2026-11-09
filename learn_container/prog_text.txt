@@ -1,0 +1,21 @@
+import 'package:flutter/material.dart';
+
+void main() => runApp(MyApp());
+
+class MyApp extends StatelessWidget{
+const MyApp({super.key})
+
+@override
+Widget build(BuildContext context){
+	return MaterialApp(
+	title: 'Name of title',
+	theme: ThemeData(property)
+	home: Scaffold(
+	appBar:
+	Body: Center(child:Text())
+
+	floatingActionButton: 
+	) // scaffold
+	); // material App
+}
+}

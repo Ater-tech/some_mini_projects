@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Mechanics"
+  },
+  {
+    "id": 2,
+    "name": "Kinematics"
+  },
+  {
+    "id": 3,
+    "name": "Dynamics"
+  },
+  {
+    "id": 4,
+    "name": "Statics"
+  },
+  {
+    "id": 5,
+    "name": "Conservation Laws"
+  },
+  {
+    "id": 6,
+    "name": "Molecular Physics"
+  },
+  {
+    "id": 7,
+    "name": "Thermodynamics"
+  },
+  {
+    "id": 8,
+    "name": "Electric Charge"
+  },
+  {
+    "id": 9,
+    "name": "Electric Field"
+  },
+  {
+    "id": 10,
+    "name": "Electric Current"
+  },
+  {
+    "id": 11,
+    "name": "Magnetic Field"
+  },
+  {
+    "id": 12,
+    "name": "Electromagnetic Induction"
+  },
+  {
+    "id": 13,
+    "name": "Electromagnetic Oscillations"
+  },
+  {
+    "id": 14,
+    "name": "Waves"
+  },
+  {
+    "id": 15,
+    "name": "Optics"
+  },
+  {
+    "id": 16,
+    "name": "Quantum Physics"
+  },
+  {
+    "id": 17,
+    "name": "Atomic Physics"
+  },
+  {
+    "id": 18,
+    "name": "Nuclear Physics"
+  },
+  {
+    "id": 19,
+    "name": "Relativistic Mechanics"
+  },
+  {
+    "id": 20,
+    "name": "Astrophysics Basics"
+  }
+]

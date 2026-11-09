@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Mexanika"
+  },
+  {
+    "id": 2,
+    "name": "Kinematika"
+  },
+  {
+    "id": 3,
+    "name": "Dinamika"
+  },
+  {
+    "id": 4,
+    "name": "Statika"
+  },
+  {
+    "id": 5,
+    "name": "Saqlanish qonunlari"
+  },
+  {
+    "id": 6,
+    "name": "Molekulyar fizika"
+  },
+  {
+    "id": 7,
+    "name": "Termodinamika"
+  },
+  {
+    "id": 8,
+    "name": "Elektr zaryadi"
+  },
+  {
+    "id": 9,
+    "name": "Elektr maydon"
+  },
+  {
+    "id": 10,
+    "name": "Elektr toki"
+  },
+  {
+    "id": 11,
+    "name": "Magnit maydon"
+  },
+  {
+    "id": 12,
+    "name": "Elektromagnit induksiya"
+  },
+  {
+    "id": 13,
+    "name": "Elektromagnit tebranishlar"
+  },
+  {
+    "id": 14,
+    "name": "To‘lqinlar"
+  },
+  {
+    "id": 15,
+    "name": "Optika"
+  },
+  {
+    "id": 16,
+    "name": "Kvant fizika"
+  },
+  {
+    "id": 17,
+    "name": "Atom fizikasi"
+  },
+  {
+    "id": 18,
+    "name": "Yadro fizikasi"
+  },
+  {
+    "id": 19,
+    "name": "Relativistik mexanika"
+  },
+  {
+    "id": 20,
+    "name": "Astrofizika asoslari"
+  }
+]

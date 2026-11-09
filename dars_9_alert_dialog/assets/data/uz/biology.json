@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Biologiya faniga kirish" },
+  { "id": 2, "name": "Hujayra tuzilishi" },
+  { "id": 3, "name": "Hujayra bo‘linishi" },
+  { "id": 4, "name": "To‘qimalar" },
+  { "id": 5, "name": "Organlar va organlar tizimi" },
+  { "id": 6, "name": "O‘simliklar anatomiyasi" },
+  { "id": 7, "name": "O‘simliklar fiziologiyasi" },
+  { "id": 8, "name": "Fotosintez" },
+  { "id": 9, "name": "Nafas olish" },
+  { "id": 10, "name": "Moddalar almashinuvi" },
+  { "id": 11, "name": "Genetika asoslari" },
+  { "id": 12, "name": "Irsiyat va o‘zgaruvchanlik" },
+  { "id": 13, "name": "Evolyutsiya ta’limoti" },
+  { "id": 14, "name": "Ekologiya asoslari" },
+  { "id": 15, "name": "Biotsenoz va ekotizimlar" },
+  { "id": 16, "name": "Inson anatomiyasi" },
+  { "id": 17, "name": "Inson fiziologiyasi" },
+  { "id": 18, "name": "Asab tizimi" },
+  { "id": 19, "name": "Immunitet" },
+  { "id": 20, "name": "Biotexnologiya asoslari" }
+]

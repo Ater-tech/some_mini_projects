@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Natural Numbers" },
+  { "id": 2, "name": "Integers" },
+  { "id": 3, "name": "Rational Numbers" },
+  { "id": 4, "name": "Irrational Numbers" },
+  { "id": 5, "name": "Real Numbers" },
+  { "id": 6, "name": "Common Fractions" },
+  { "id": 7, "name": "Decimal Fractions" },
+  { "id": 8, "name": "Algebraic Fractions" },
+  { "id": 9, "name": "Percentages" },
+  { "id": 10, "name": "Powers and Exponents" },
+  { "id": 11, "name": "Roots and Radicals" },
+  { "id": 12, "name": "Linear Equations" },
+  { "id": 13, "name": "Quadratic Equations" },
+  { "id": 14, "name": "Inequalities" },
+  { "id": 15, "name": "Ratios and Proportions" },
+  { "id": 16, "name": "Sequences and Progressions" },
+  { "id": 17, "name": "Functions" },
+  { "id": 18, "name": "Basic Trigonometry" },
+  { "id": 19, "name": "Basic Geometry" },
+  { "id": 20, "name": "Statistics and Probability" }
+]
